@@ -1,3 +1,6 @@
+# ⚠️ ARCHIVED / MOVED ⚠️ 
+ All the content from this repo has been moved to the CubeAI website and can be found here: https://cube.ultraviolet.rs/docs.
+
 # Cube AI Documentation
 
 This repo collects the collaborative work on Cube AI documentation.
